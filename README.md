@@ -3,3 +3,16 @@
 # JODC Hacktoberfest Meetup 2.0
 
 Here's the go-to repository for the JIIT Open-Source Developers' Circle's Hacktoberfest 2019 Celebration!
+
+Register yourselves at 
+https://hacktoberfest.digitalocean.com/
+
+...and start hacking!
+
+Start off by making your first pull request here!
+
+Branch out by sending in pull requests for resolving issues labelled as "Hacktoberfest" in the below listed repositories.
+
+OR
+
+Visit Hacktoberfest's website to discover new repositories to contribute to.
