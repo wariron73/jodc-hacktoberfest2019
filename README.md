@@ -11,8 +11,12 @@ https://hacktoberfest.digitalocean.com/
 
 Start off by making your first pull request here!
 
+---
+
 Branch out by sending in pull requests for resolving issues labelled as "Hacktoberfest" in the below listed repositories.
 
 OR
 
 Visit Hacktoberfest's website to discover new repositories to contribute to.
+
+---
